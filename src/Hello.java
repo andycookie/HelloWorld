@@ -20,6 +20,7 @@ public class Hello {
 			System.out.println("fix bug");
 			System.out.println(i);
 			System.out.println(i);
+			System.out.println(i);
 			System.out.println("fix bug");
 		}
 	}
