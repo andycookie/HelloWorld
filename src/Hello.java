@@ -17,6 +17,8 @@ public class Hello {
 	public static void getMaxValue(String name){
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
+			System.out.println(i);
+			System.out.println(i);
 		}
 	}
 }
